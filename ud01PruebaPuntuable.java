@@ -22,18 +22,6 @@ Una vez mostrado ese importe, la aplicación también debe solicitar al operador
 que introduzca cuánto dinero aporta el cliente y mostrar cuánto es el cambio que
 debe devolverle.
 
-
-NOTAS:
-
-- Asumir que la entrada de datos siempre es correcta. Eso incluye que el dinero
-a aportar no es inferior al coste final de la llamada.
-- Los importes de establecimiento de llamada y de minuto de llamada deben estar
-registrados en el programa como constantes.
-- Se recuerda que en la UD01 NO se utilizaron ni estructuras condicionales ni
-estructuras repetitivas. Por tanto, no se pueden utilizar para realizar este
-programa.
- */
-
 package ud01pruebapuntuable;
 import java.util.*;
 
